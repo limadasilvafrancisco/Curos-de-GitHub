@@ -1,2 +1,2 @@
-# Curos-de-GitHub
-Curos de GitHub
+# Curso de-GitHub
+Curso de GitHub
